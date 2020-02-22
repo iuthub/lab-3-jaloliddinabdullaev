@@ -1,0 +1,46 @@
+.container {
+    height: auto;
+    width: 900px;
+    background-color: white;
+    border: 5px solid green;
+    margin-left: 10%;
+    margin-right: 10%
+}
+body {
+    background-image: url(background.gif);
+}
+.item1 {
+	width: auto;
+    border: 5px solid red;
+}
+.item3 {
+    overflow: hidden;
+	width: auto;
+    padding: 5px;
+    margin-top: 10px;
+    border: 5px solid blue;
+    background-color:  #E8FBFB;
+}
+.item4 {
+	width: auto;
+	height: 40px;
+    border: 5px solid #d69840;
+}
+.date_border {
+    border: 5px solid #604166
+}
+h1, h2 {
+    font-family: "Century Gothic";
+    margin: 2px;
+    color:  #407ad6;
+}
+p {
+ color:  #407ad6
+}
+.image {
+    float: right;
+}
+#top {
+   text-align: right;
+    margin: 2px;
+}
